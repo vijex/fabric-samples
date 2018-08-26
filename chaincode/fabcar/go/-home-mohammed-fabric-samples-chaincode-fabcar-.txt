@@ -1,0 +1,1 @@
+/home/mohammed/fabric-samples/chaincode/fabcar/go
